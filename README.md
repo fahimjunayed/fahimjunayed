@@ -16,6 +16,7 @@
 * CI/CD with GitHub Actions
 * Performance testing with k6
 * Security testing basics (OWASP Top 10)
+* Integration Testing using framework
 
 ## 📫 Connect
 
